@@ -1,0 +1,131 @@
+# Flutter/Dart/Pub
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+flutter_*.png
+flutter_*.dmg
+flutter_*.exe
+flutter_*.deb
+flutter_*.app
+flutter_*.apk
+flutter_*.ipa
+*.jar
+*.zip
+
+# Android
+*.apk
+*.ap_
+*.aab
+*.dex
+*.class
+bin/
+gen/
+gradle/
+gradlew
+gradlew.bat
+local.properties
+proguard-rules.pro
+*.keystore
+*.jks
+*.bks
+
+# iOS
+*.podspec
+.flutter-plugins-dependencies
+Flutter/ephemeral
+ios/Flutter/App.framework
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/Generated.xcconfig
+ios/Flutter/app.flx
+ios/Flutter/app.zip
+ios/Flutter/flutter_assets/
+ios/Flutter/flutter_export_environment.sh
+ios/Pods/
+ios/Runner.xcworkspace
+ios/Runner.xcodeproj/project.xcworkspace
+ios/.symlinks/
+
+# macOS
+*.mode1v3
+*.mode2v3
+*.moved-aside
+*.pbxuser
+*.perspectivev3
+**/*sync/
+.DS_Store
+.apple_double
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
+*.lnk
+
+# Linux
+*~
+.fuse_hidden*
+.directory
+.Trash-*
+.nfs*
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*.tmp
+*.tmp.*
+*~
+*.un~
+.DS_Store
+
+# Logs
+logs/
+*.log
+
+# Coverage
+coverage/
+*.lcov
+
+# Assets
+assets/assets.zip
+
+# Environment
+.env
+.env.local
+.env.production
+
+# Build outputs
+/build/
+/out/
+/dist/
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Package managers
+*.lock
+.yarn/cache
+.yarn/unplugged
+.yarn/build-state.yml
+.yarn/install-state.gz
+.pnp.*
